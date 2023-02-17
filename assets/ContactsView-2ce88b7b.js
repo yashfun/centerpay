@@ -1,0 +1,1 @@
+import{_ as a,o as c,c as o,a as e}from"./index-0babfffc.js";const t={},n={class:"basic-conteiner container"},s=e("div",null,[e("h3",null,[e("a",{href:"tel:+79018003777"},"+7 901 800-37-77")]),e("h4",null,[e("a",{href:"mailto:alfadiler@gmail.com"},"alfadiler@gmail.com")])],-1),l=[s];function r(i,_){return c(),o("section",n,l)}const f=a(t,[["render",r]]);export{f as default};

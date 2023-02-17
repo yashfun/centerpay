@@ -1,0 +1,1 @@
+import{_ as c,o as t,c as n,a as e}from"./index-0babfffc.js";const o={},s={class:"basic-conteiner container"},r=e("div",null,[e("h3",null,"Сервис временно недоступен"),e("h4",null,"Ведутся технические работы")],-1),a=[r];function _(i,l){return t(),n("section",s,a)}const f=c(o,[["render",_]]);export{f as default};
